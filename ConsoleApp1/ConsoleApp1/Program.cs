@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
           //The code was edited for sample purposes
+            //Usage of the Pull command in github
         }
     }
 }
